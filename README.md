@@ -10,8 +10,7 @@ Sou estudante de **Pedagogia (Unifran)** e iniciante em **Ciência da Computaç�
 ## 🛠️ Tecnologias
 - HTML5 & CSS3  
 - JavaScript  
-- Python  
-- Git & GitHub  
+- GitHub  
 
 ---
 
