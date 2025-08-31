@@ -1,2 +1,19 @@
 # README.md
-Olá! Eu sou a Paulla, apaixonada por **educação e tecnologia**. Aqui está um espaço onde compartilho meus aprendizados e projetos que unem o mundo pedagógico com a lógica e inovação tecnológica.
+# 🌟 Portfólio — Paulla Cardoso
+
+Olá! Eu sou a Paulla, apaixonada por **educação e tecnologia**. Atualmente, trabalho como **secretária em um buffet**, desenvolvendo habilidades de comunicação, organização e resolução de problemas.  
+
+Sou estudante de **Pedagogia (Unifran)** e iniciante em **Ciência da Computação**, com forte **paixão por tecnologia, desenvolvimento de sistemas e educação**.  
+
+---
+
+## 🛠️ Tecnologias
+- HTML5 & CSS3  
+- JavaScript  
+- Python  
+- Git & GitHub  
+
+---
+
+✨ Obrigada por visitar meu portfólio!  
+📎 [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/paulla-cardoso-820619375)
